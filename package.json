@@ -1,0 +1,23 @@
+{
+  "name": "friend-finder",
+  "version": "0.0.1",
+  "description": "This full-stack site will take in results your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shermangore/friend-finder.git"
+  },
+  "author": "Sherman Gore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shermangore/friend-finder/issues"
+  },
+  "homepage": "https://github.com/shermangore/friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
